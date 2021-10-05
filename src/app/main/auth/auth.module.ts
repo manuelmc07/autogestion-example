@@ -44,7 +44,7 @@ const routes = [
   ],
   declarations: [
     LoginComponent,
-    RegisterComponent
+    RegisterComponent,
   ],
 })
 export class AuthModule {}

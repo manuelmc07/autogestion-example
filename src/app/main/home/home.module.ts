@@ -35,7 +35,7 @@ const routes = [
     MatButtonModule,
   ],
   declarations: [
-    MainComponent
+    MainComponent,
   ],
 })
 export class HomeModule {}
